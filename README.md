@@ -73,11 +73,11 @@
 
 * With the Twitch session authenticated, the `Chroma Relay` will enable the `Broadcast on Twitch` checkbox.
 
-![image_9](images/image_9.png)
+![image_10](images/image_10.png)
 
 * When `Broadcast on Twitch` is unchecked, the status should show `Ready to send Chroma data...`.
 
-![image_10](images/image_10.png)
+![image_9](images/image_9.png)
 
 * Check the `Broadcast on Twitch` checkbox
 
