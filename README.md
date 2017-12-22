@@ -1,6 +1,8 @@
 # Chroma - Twitch Extension
 (Unofficial) The `Chroma` Twitch Extension adds `Chroma` lighting to the live channel. `Broadcasters` can send `Chroma` lighting from their favorite `Chroma` enabled games. `Viewers` will be able to see `Chroma` lighting while watching the live channel.
 
+<a target="_blank" href="https://youtu.be/rAJR2v4sNZg"><img src="https://img.youtube.com/vi/rAJR2v4sNZg/0.jpg"></a>
+
 ## Table of Contents
 
 * [Releases](#releases)
