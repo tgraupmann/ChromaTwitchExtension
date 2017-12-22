@@ -35,6 +35,10 @@
 
 ## Quick Start for the `Broadcaster`
 
+* The `broadcaster` can begin or end streaming video at any time using the preferred streaming software. The same is true for broadcasting `Chroma` data.
+
+![image_13](images/image_13.png)
+
 * Install `Synpase`
 
 * Install `ChromaSDK`
