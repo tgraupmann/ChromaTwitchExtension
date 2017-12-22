@@ -7,11 +7,11 @@
 
 * [Dependencies](#dependencies)
 
-* [Quick Start for `All Users`](#dependencies)
+* [Quick Start for `All Users`](#quick-start-for-all-users)
 
-* [Quick Start for the `Broadcaster`](#dependencies)
+* [Quick Start for the `Broadcaster`](#quick-start-for-the-broadcaster)
 
-* [Quick Start for the `Viewer`](#dependencies)
+* [Quick Start for the `Viewer`](#quick-start-for-the-viewer)
 
 * [Overview](#Overview)
 
