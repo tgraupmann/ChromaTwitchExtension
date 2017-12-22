@@ -35,9 +35,17 @@
 
 * Install the [Chroma Twitch Extension](https://www.twitch.tv/ext/68yadm5zjklpm8jmmxjso3kgjp76n5-0.0.1)
 
-* Add the `Chroma Twitch Extension` to an extension panel and activate
+* Activate the `Chroma Twitch Extension`
+
+![image_22](images/image_22.png)
+
+* If this is your first extension, click `Add as a new panel`, or add to an existing panel
+
+![image_23](images/image_23.png)
 
 * See the full list of games with `Choma` lighting in the [Chroma Workshop](https://www2.razerzone.com/chroma-workshop/games)
+
+![image_24](images/image_24.png)
 
 ## Quick Start for the `Broadcaster`
 
