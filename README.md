@@ -33,6 +33,8 @@
 
 * Add the `Chroma Twitch Extension` to an extension panel and activate
 
+* See the full list of games with `Choma` lighting in the [Chroma Workshop](https://www2.razerzone.com/chroma-workshop/games)
+
 ## Quick Start for the `Broadcaster`
 
 * The `broadcaster` can begin or end streaming video at any time using the preferred streaming software. The same is true for broadcasting `Chroma` data.
