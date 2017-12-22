@@ -89,6 +89,34 @@
 
 ## Quick Start for the `Viewer`
 
+* With the extension active, the `Chroma` panel should be displayed on the rlive channel. On a `viewer` account the `designation` should show as `Viewer`. The `viewer` panel does need to be open in the browser in order to see the video and `Chroma` data. 
+
+![image_14](images/image_14.png)
+
+* `Chroma` lighting can only be displayed on `Chroma` hardware if the `ChromaSDK` is installed. A message will display if the `ChromaSDK` is not found.
+
+![image_15](images/image_15.png)
+
+* Regardless whether the `ChromaSDK` is installed, the `Viewer` can toggle virtual devices (ChromaLink, Headset, Keyboard, Keypad, Mouse, Mousepad) to see the `Chroma` data.
+
+![image_17](images/image_17.png)
+
+* While the `broadcaster` is not streaming `Chroma` data, the message `Waiting for Chroma data...` will appear.
+
+![image_16](images/image_16.png)
+
+* While the `broadcaster` is streaming `Chroma` data, the message `Receiving Chroma data...` will appear.
+
+![image_18](images/image_18.png)
+
+* When a virtual device is toggled, `Chroma` data will display.
+
+![image_19](images/image_19.png)
+
+* When the `ChromaSDK` is detected, the `Chroma` hardware lighting will be controlled when receiving `Chroma` data.
+
+![image_20](images/image_20.png)
+
 ## Overview
 
 When `Launch at Startup` is checked, the application will launch when the user logs into Windows.
