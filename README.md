@@ -7,6 +7,8 @@
 
 * [Releases](#releases)
 
+* [Supported Hardware](#supported-hardware)
+
 * [Dependencies](#dependencies)
 
 * [Quick Start for `All Users`](#quick-start-for-all-users)
@@ -20,6 +22,10 @@
 ## Releases
 
 * [Chroma Relay Installer](https://github.com/tgraupmann/ChromaTwitchExtension/releases) for Windows
+
+## Supported Hardware
+
+* [Chroma Compatible Devices](http://developer.razerzone.com/works-with-chroma/compatible-devices/)
 
 ## Dependencies
 
