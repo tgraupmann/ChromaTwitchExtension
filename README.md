@@ -29,11 +29,11 @@
 
 ## Quick Start for `All Users`
 
-* Install the [Chroma Twitch Extension](https://www.twitch.tv/ext/68yadm5zjklpm8jmmxjso3kgjp76n5-0.0.1)
-
-* Open the extension dashboard, search for `Chroma`, and click `Install`
+* Open the extension dashboard and search for `Chroma`
 
 ![image_21](images/image_21.png)
+
+* Install the [Chroma Twitch Extension](https://www.twitch.tv/ext/68yadm5zjklpm8jmmxjso3kgjp76n5-0.0.1)
 
 * Add the `Chroma Twitch Extension` to an extension panel and activate
 
