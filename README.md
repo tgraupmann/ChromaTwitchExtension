@@ -113,7 +113,7 @@
 
 ![image_19](images/image_19.png)
 
-* When the `ChromaSDK` is detected, the `Chroma` hardware lighting will be controlled when receiving `Chroma` data.
+* When the `ChromaSDK` is detected, the `Chroma` hardware lighting will be controlled by receiving `Chroma` data.
 
 ![image_20](images/image_20.png)
 
