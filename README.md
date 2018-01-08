@@ -23,6 +23,8 @@
 
 * [Chroma Relay Installer](https://github.com/tgraupmann/ChromaTwitchExtension/releases) for Windows
 
+* [Chroma](https://www.twitch.tv/ext/68yadm5zjklpm8jmmxjso3kgjp76n5-0.0.2) Twitch Extension
+
 ## Supported Hardware
 
 * [Chroma Compatible Devices](http://developer.razerzone.com/works-with-chroma/compatible-devices/)
