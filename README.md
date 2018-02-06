@@ -5,19 +5,20 @@
 
 ## Table of Contents
 
+* [See Also](#see-also)
 * [Releases](#releases)
-
 * [Supported Hardware](#supported-hardware)
-
 * [Dependencies](#dependencies)
-
 * [Quick Start for `All Users`](#quick-start-for-all-users)
-
 * [Quick Start for the `Broadcaster`](#quick-start-for-the-broadcaster)
-
 * [Quick Start for the `Viewer`](#quick-start-for-the-viewer)
-
 * [Overview](#Overview)
+
+## See Also
+
+* [ChromaDiscordApp](https://github.com/tgraupmann/ChromaDiscordApp) - Enable Chroma lighting in the Discord App for Windows
+
+* [CChromaEditor](https://github.com/RazerOfficial/CChromaEditor) - Editor for editing Chroma animations
 
 ## Releases
 
@@ -91,7 +92,7 @@
 
 ![image_7](images/image_7.png)
 
-* With the extension active, the `Chroma` panel should be active on the `broadcaster's` live channel. The `designation` should show as `broadcaster`. The `broadcaster` channel browser page does not need to be open in order to send `Chroma` data. 
+* With the extension active, the `Chroma` panel should be active on the `broadcaster's` live channel. The `designation` should show as `broadcaster`. The `broadcaster` channel browser page does not need to be open in order to send `Chroma` data.
 
 ![image_8](images/image_8.png)
 
@@ -113,7 +114,7 @@
 
 ## Quick Start for the `Viewer`
 
-* With the extension active, the `Chroma` panel should be displayed on the rlive channel. On a `viewer` account the `designation` should show as `Viewer`. The `viewer` panel does need to be open in the browser in order to see the video and `Chroma` data. 
+* With the extension active, the `Chroma` panel should be displayed on the rlive channel. On a `viewer` account the `designation` should show as `Viewer`. The `viewer` panel does need to be open in the browser in order to see the video and `Chroma` data.
 
 ![image_14](images/image_14.png)
 
