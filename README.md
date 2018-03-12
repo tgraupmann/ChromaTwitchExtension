@@ -44,7 +44,7 @@
 
 ![image_21](images/image_21.png)
 
-* Install the [Chroma Twitch Extension](https://www.twitch.tv/ext/68yadm5zjklpm8jmmxjso3kgjp76n5-0.0.2)
+* Install the [Chroma Twitch Extension](https://www.twitch.tv/ext/68yadm5zjklpm8jmmxjso3kgjp76n5-0.0.3)
 
 * Activate the `Chroma Twitch Extension`
 
