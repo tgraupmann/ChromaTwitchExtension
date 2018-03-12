@@ -22,9 +22,9 @@
 
 ## Releases
 
-* [Chroma Relay Installer](https://github.com/tgraupmann/ChromaTwitchExtension/releases) for Windows
+* [Chroma Client for Twitch Installer](https://github.com/tgraupmann/ChromaTwitchExtension/releases) for Windows
 
-* [Chroma](https://www.twitch.tv/ext/68yadm5zjklpm8jmmxjso3kgjp76n5-0.0.2) Twitch Extension
+* [Chroma](https://www.twitch.tv/ext/68yadm5zjklpm8jmmxjso3kgjp76n5-0.0.3) Twitch Extension
 
 ## Supported Hardware
 
@@ -36,7 +36,7 @@
 
 * [Razer Chroma SDK](http://developer.razerzone.com/works-with-chroma/download/) - Allow applications to control `Chroma` lighting. The `ChromaSDK` is automatically installed by `Synapse` when a `Chroma` device is connected.
 
-* `Chroma Relay` - Required for the `broadcaster` in order to send Chroma data
+* `Chroma Client for Twitch` - Required for the `broadcaster` in order to send Chroma data
 
 ## Quick Start for `All Users`
 
@@ -66,9 +66,9 @@
 
 * Install `Synpase`
 
-* Install `ChromaSDK`
+* Connect a supported [Chroma Enabled](https://developer.razerzone.com/works-with-chroma/compatible-devices/) device
 
-* Install and run the `Chroma Relay`
+* Install and run the `Chroma Client for Twitch` application
 
 ![image_1](images/image_1.png)
 
@@ -96,7 +96,7 @@
 
 ![image_8](images/image_8.png)
 
-* With the Twitch session authenticated, the `Chroma Relay` will enable the `Broadcast on Twitch` checkbox.
+* With the Twitch session authenticated, the `Chroma Client for Twitch` will enable the `Broadcast on Twitch` checkbox.
 
 ![image_10](images/image_10.png)
 
