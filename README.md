@@ -38,7 +38,7 @@
 
 * [Chroma Client for Twitch Installer](https://github.com/tgraupmann/ChromaTwitchExtension/releases) for Windows
 
-* [Chroma](https://www.twitch.tv/ext/68yadm5zjklpm8jmmxjso3kgjp76n5-0.0.3) Twitch Extension
+* [Chroma](https://www.twitch.tv/ext/68yadm5zjklpm8jmmxjso3kgjp76n5-0.0.4) Twitch Extension
 
 ## Supported Hardware
 
