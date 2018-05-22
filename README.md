@@ -42,13 +42,15 @@
 
 ## Supported Hardware
 
-* [Chroma Compatible Devices](http://developer.razerzone.com/works-with-chroma/compatible-devices/)
+* [Synapse 2 Supported Devices](http://developer.razer.com/works-with-chroma/compatible-devices/)
+
+* [Synapse 3 Supported Devices](https://www.razer.com/synapse-3)
 
 ## Dependencies
 
-* [Razer Synapse](https://www.razerzone.com/synapse) - Control `Chroma` application priority
+* [Razer Synapse](https://www.razer.com/synapse) - Control `Chroma` application priority
 
-* [Razer Chroma SDK](http://developer.razerzone.com/works-with-chroma/download/) - Allow applications to control `Chroma` lighting. The `ChromaSDK` is automatically installed by `Synapse` when a `Chroma` device is connected.
+* Razer Chroma SDK - Allow applications to control `Chroma` lighting. The `ChromaSDK` is automatically installed by `Synapse` when a `Chroma` device is connected.
 
 * `Chroma Client for Twitch` - Required for the `broadcaster` in order to send Chroma data
 
@@ -58,7 +60,7 @@
 
 ![image_21](images/image_21.png)
 
-* Install the [Chroma Twitch Extension](https://www.twitch.tv/ext/68yadm5zjklpm8jmmxjso3kgjp76n5-0.0.3)
+* Install the [Chroma Twitch Extension](https://www.twitch.tv/ext/68yadm5zjklpm8jmmxjso3kgjp76n5-0.0.4)
 
 * Activate the `Chroma Twitch Extension`
 
@@ -68,7 +70,7 @@
 
 ![image_23](images/image_23.png)
 
-* See the full list of games with `Choma` lighting in the [Chroma Workshop](https://www2.razerzone.com/chroma-workshop/games)
+* See the full list of games with `Choma` lighting in the [Chroma Workshop](https://www2.razer.com/chroma-workshop/games)
 
 ![image_24](images/image_24.png)
 
@@ -80,7 +82,7 @@
 
 * Install `Synpase`
 
-* Connect a supported [Chroma Enabled](https://developer.razerzone.com/works-with-chroma/compatible-devices/) device
+* Connect a supported `Chroma Enabled` device
 
 * Install and run the `Chroma Client for Twitch` application
 
