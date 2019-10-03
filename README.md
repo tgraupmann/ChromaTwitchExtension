@@ -164,10 +164,10 @@ When `Launch at Startup` is checked, the application will launch when the user l
 
 ![image_2](images/image_2.png)
 
-Broadcasters will want to go to the Synapse-&gt;Connect&gt;Apps tab and turn off the `Chroma REST API Client for Twitch`.
+Broadcasters will want to go to the Synapse-&gt;Connect-&gt;Apps tab and turn off the `Chroma REST API Client for Twitch`.
 
 ![image_25](images/image_25.png)
 
-Viewers will want to go to the Synapse-&gt;Connect&gt;Apps tab and turn on the `Chroma REST API Client for Twitch` and move it to the top of the list. That way the broadcasted Chroma RGB lighting will have focus over other apps/games.
+Viewers will want to go to the Synapse-&gt;Connect-&gt;Apps tab and turn on the `Chroma REST API Client for Twitch` and move it to the top of the list. That way the broadcasted Chroma RGB lighting will have focus over other apps/games.
 
 ![image_26](images/image_26.png)
