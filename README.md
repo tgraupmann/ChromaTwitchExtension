@@ -38,7 +38,7 @@
 
 * [Chroma Client for Twitch Installer](https://github.com/tgraupmann/ChromaTwitchExtension/releases) for Windows
 
-* [Chroma](https://www.twitch.tv/ext/68yadm5zjklpm8jmmxjso3kgjp76n5-0.0.4) Twitch Extension
+* [ChromaRGB](https://www.twitch.tv/ext/uj083ccgn6mx5g7i977pqaex7utxsz-0.0.8) Twitch Extension
 
 ## Supported Hardware
 
@@ -60,7 +60,7 @@
 
 ![image_21](images/image_21.png)
 
-* Install the [Chroma Twitch Extension](https://www.twitch.tv/ext/68yadm5zjklpm8jmmxjso3kgjp76n5-0.0.4)
+* Install the [Chroma RGB](https://www.twitch.tv/ext/uj083ccgn6mx5g7i977pqaex7utxsz-0.0.8) Twitch Extension
 
 * Activate the `Chroma Twitch Extension`
 
