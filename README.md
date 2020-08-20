@@ -1,3 +1,7 @@
+# Update
+
+*** NEW: Check out the [Razer Chroma RGB for Streamers](https://dashboard.twitch.tv/extensions/0bjhmu40mf9oxnn604lpcmbe8iczen) extension. This is the latest official version of this app!
+
 # Chroma - Twitch Extension
 (Unofficial) The `Chroma` Twitch Extension adds `Chroma` lighting to the live channel. `Broadcasters` can send `Chroma` lighting from their favorite `Chroma` enabled games. `Viewers` will be able to see `Chroma` lighting while watching the live channel.
 
@@ -23,8 +27,6 @@
 **Apps:**
 
 - [ChromaClientForDiscord](https://github.com/tgraupmann/ChromaDiscordApp) - Add Chroma lighting to the Discord App events
-
-- [ChromaClientForMixer](https://github.com/tgraupmann/ChromaClientForMixer) - Add Chroma lighting to the Mixer streaming experience
 
 - [ChromaClientForTwitch](https://github.com/tgraupmann/ChromaTwitchExtension) - Add Chroma lighting to the Twitch streaming experience
 
