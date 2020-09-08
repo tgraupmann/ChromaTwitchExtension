@@ -1,6 +1,6 @@
 # Update
 
-*** NEW: Check out the Razer Chroma RGB for Streamers [Twitch Extension](https://dashboard.twitch.tv/extensions/0bjhmu40mf9oxnn604lpcmbe8iczen) Twitch extension and [Xbox Gamebar Widget](https://www.microsoft.com/store/apps/9PG8DNKL06M6). This is now the latest official version of this app!
+* **NEW: Check out the Razer Chroma RGB for Streamers [Twitch Extension](https://dashboard.twitch.tv/extensions/0bjhmu40mf9oxnn604lpcmbe8iczen) Twitch extension and [Xbox Gamebar Widget](https://www.microsoft.com/store/apps/9PG8DNKL06M6). This is now the latest official version of this app!**
 
 * **Everything below is the obsolete version**
 
@@ -18,7 +18,8 @@
 * [Quick Start for `All Users`](#quick-start-for-all-users)
 * [Quick Start for the `Broadcaster`](#quick-start-for-the-broadcaster)
 * [Quick Start for the `Viewer`](#quick-start-for-the-viewer)
-* [Overview](#Overview)
+* [Overview](#overview)
+* [Support])$support)
 
 ## See Also
 
@@ -181,3 +182,7 @@ Broadcasters will want to go to the Synapse-&gt;Connect-&gt;Apps tab and turn of
 Viewers will want to go to the Synapse-&gt;Connect-&gt;Apps tab and turn on the `Chroma REST API Client for Twitch` and move it to the top of the list. That way the broadcasted Chroma RGB lighting will have focus over other apps/games.
 
 ![image_26](images/image_26.png)
+
+## Support
+
+Contact `Tim Graupmann#0611` on Discord for support.
