@@ -1,0 +1,81 @@
+
+<html>
+<head>
+<style>
+.chroma_item_border {
+  display: inline-block;
+  padding: 10px;
+  margin: 10px;
+  background-color: #DDD;
+  vertical-align: top;
+  color: #000
+}
+.chroma_item_game {
+  background-color: #0F0;
+  color: #000;
+}
+.chroma_item_user {
+  padding-left: 50px;
+  background-color: #00F;
+  color: #FFF
+}
+</style>
+</head>
+<body style="background-color: #2F2F2F; color: #FFF">
+<h2>Chroma Twitch Streams</h2>
+<div id="idStreams">
+</div>
+<script>
+  var clientId = '0bjhmu40mf9oxnn604lpcmbe8iczen';
+
+  function reqListener () {
+    var json = JSON.parse(this.responseText);
+    //console.log('content', JSON.stringify(json, null, 2));
+
+    // put results in this div
+    var idStreams = document.getElementById('idStreams');
+
+    if (json.channels == undefined || json.channels.length == 0) {
+      var divItem = document.createElement('H3');
+      divItem.innerHTML = 'No Active Streams!!!' ;
+      idStreams.append(divItem);
+    } else {
+      json.channels.forEach(channel => 
+      {
+        //console.log('channel', channel);
+        var anchorItem = document.createElement('a');
+        anchorItem.target = '_blank';
+        anchorItem.href = 'https://twitch.tv/' + channel.username 
+        idStreams.append(anchorItem);
+
+        var divItem = document.createElement('div');
+        divItem.classList.add('chroma_item_border');
+        anchorItem.append(divItem);
+
+        var gameItem = document.createElement('div');
+        gameItem.classList.add('chroma_item_game');
+        gameItem.innerHTML = channel.game;
+        divItem.append(gameItem);
+
+        var userItem = document.createElement('div');
+        userItem.classList.add('chroma_item_user');
+        userItem.innerHTML = channel.username;
+        divItem.append(userItem);
+
+        var imgItem = document.createElement('img');
+        imgItem.src = 'https://static-cdn.jtvnw.net/previews-ttv/live_user_' + channel.username + '-400x300.jpg';
+        imgItem.alt = channel.title;
+        divItem.append(imgItem);
+      });
+    }
+  }
+
+  var oReq = new XMLHttpRequest();
+  oReq.addEventListener("load", reqListener);
+  var url = 'https://api.twitch.tv/extensions/' + clientId + '/live_activated_channels';
+  oReq.open("GET", url);
+  oReq.setRequestHeader('Client-Id', clientId);
+  oReq.send();
+</script>
+</body>
+</html>
