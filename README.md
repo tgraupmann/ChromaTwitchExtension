@@ -91,7 +91,7 @@
 
 ![image_13](images/image_13.png)
 
-* Install `Synpase`
+* Install `Synapse`
 
 * Connect a supported `Chroma Enabled` device
 
