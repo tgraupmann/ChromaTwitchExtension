@@ -15,6 +15,10 @@
 
 * If you don't have Chroma hardware, you can see Chroma effects with the [Chroma Emulator](https://github.com/razerofficial/ChromaEmulator)
 
+* Make sure `Xbox Game Bar` is turned on for `Windows Key` + `G` to open the widget.
+
+![image_29](images/image_29.png)
+
 
 ## Videos ##
 
