@@ -1,9 +1,8 @@
 ## Update ##
 
-* **NEW: Check out the Razer Chroma RGB for Streamers [Twitch Extension](https://dashboard.twitch.tv/extensions/0bjhmu40mf9oxnn604lpcmbe8iczen) Twitch extension and [Xbox Gamebar Widget](https://www.microsoft.com/store/apps/9PG8DNKL06M6). This is now the latest official version of this app!**
+* The legacy Twitch extension is deprecated now that the [Legacy Twitch API v5 Shutdown Details and Timeline](https://blog.twitch.tv/en/2021/07/15/legacy-twitch-api-v5-shutdown-details-and-timeline/)
 
-* Check out [channels streaming Chroma RGB](https://htmlpreview.github.io/?https://github.com/tgraupmann/ChromaTwitchExtension/blob/master/streamers.html)
-
+* For Chroma streaming visit the `Razer Streaming Portal` at [stream.razer.com](https://stream.razer.com) and you can switch to the [Razer Streaming Panel](https://dashboard.twitch.tv/extensions/5z0l5bgwb0r0xcqritj8leqgo06l9j) Twitch Extension.
 
 ## Quick Start ##
 
